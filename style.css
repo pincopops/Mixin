@@ -1,0 +1,40 @@
+div.container {
+  border: 1px solid red;
+}
+div.container h1.container-header {
+  text-align: center;
+  text-decoration: underline;
+  text-decoration-color: blue;
+  color: green;
+}
+
+section.first-section {
+  display: flex;
+  margin: 10px;
+}
+
+.blue-article {
+  color: red;
+  border: 1px solid green;
+  font-size: 1rem;
+  padding: 20px 10px 20px 10px;
+  text-align: center;
+}
+
+.red-article {
+  color: blue;
+  border: 1px solid green;
+  font-size: 1rem;
+  padding: 20px 10px 20px 10px;
+  text-align: center;
+}
+
+.footer-article {
+  color: green;
+  border: 1px solid blue;
+  font-size: 24px;
+  margin: 10px;
+  padding: 20px 10px 20px 10px;
+}
+
+/*# sourceMappingURL=style.css.map */
